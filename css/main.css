@@ -439,6 +439,10 @@ footer span {
   color: var(--main-color);
   font-weight: bold;
 }
+footer a {
+  color: var(--main-color);
+  text-decoration: none;
+}
 @media (max-width: 767px) {
   footer {
     font-size: 15px;
