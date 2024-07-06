@@ -370,7 +370,7 @@ header .links ul li a {
 
 .about .about-content .text hr {
   width: 50%;
-  color: var(--main-color);
+  border-color: var(--main-color);
   margin: 40px 0;
   display: inline-block;
 }
