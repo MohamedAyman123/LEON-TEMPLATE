@@ -424,7 +424,7 @@ header .links ul li a {
 }
 @media (max-width: 767px) {
   .contact .text h2 {
-    font-size: 25px;
+    font-size: 22px;
   }
 }
 /*----------------------------------footer----------------------*/
@@ -433,8 +433,14 @@ footer {
   color: white;
   text-align: center;
   padding: 30px 0;
+  font-size: 18px;
 }
 footer span {
   color: var(--main-color);
   font-weight: bold;
+}
+@media (max-width: 767px) {
+  footer {
+    font-size: 15px;
+  }
 }
