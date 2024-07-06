@@ -205,7 +205,7 @@ header .links ul li a {
 }
 /*-------------Services--------------*/
 .services {
-  padding: 30px 0;
+  padding: 30px 0 90px 0px;
 }
 
 .services .content {
