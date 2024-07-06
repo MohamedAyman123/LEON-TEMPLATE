@@ -279,6 +279,9 @@ header .links ul li a {
   .special-heading h1 {
     font-size: 60px;
   }
+  .special-heading p {
+    font-size: 16px;
+  }
 }
 /*------------------------Portofolio--------------------*/
 .portofolio {
